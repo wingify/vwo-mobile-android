@@ -3,7 +3,7 @@
   <groupId>com.vwo</groupId>
   <artifactId>mobile</artifactId>
   <versioning>
-    <release>0.3.9</release>
+    <release>0.3.10</release>
     <versions>
       <version>0.1.0</version>
       <version>0.1.1</version>
@@ -38,7 +38,8 @@
       <version>0.3.7</version>
       <version>0.3.8</version>
       <version>0.3.9</version>
+      <version>0.3.10</version>
     </versions>
-    <lastUpdated>20160929045233</lastUpdated>
+    <lastUpdated>20160929131051</lastUpdated>
   </versioning>
 </metadata>
